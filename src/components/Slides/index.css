@@ -1,0 +1,13 @@
+.slides-containers {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+}
+.slides-list {
+  list-style-type: none;
+  overflow-y: auto;
+  margin-right: 7px;
+  width: 300px;
+}

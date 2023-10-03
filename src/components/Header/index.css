@@ -1,0 +1,25 @@
+.nav-container {
+  background-color: #dbeafe;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100vw;
+}
+
+.img-nav {
+  width: 100px;
+  height: 60px;
+  margin-right: 15px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 27px;
+  font-weight: bold;
+  color: #000000;
+}
